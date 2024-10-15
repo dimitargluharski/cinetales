@@ -1,9 +1,10 @@
-<script setup lang="ts">
-import { Button } from '@/components/ui/button'
+<script setup>
+import { reactive } from 'vue';
+const greeting = reactive({ name: 'Hello World!' });
 </script>
 
 <template>
-  <div>
-    <Button>Click me</Button>
-  </div>
+  <h1>
+    {{ greeting.name }}
+  </h1>
 </template>
