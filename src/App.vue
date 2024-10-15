@@ -1,10 +1,7 @@
 <script setup>
-import { reactive } from 'vue';
-const greeting = reactive({ name: 'Hello World!' });
+import Navbar from './components/Card/Card.vue';
 </script>
 
 <template>
-  <h1>
-    {{ greeting.name }}
-  </h1>
+  <Navbar />
 </template>
