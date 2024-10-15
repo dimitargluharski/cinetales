@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# Cinetales
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Cinetales is a movie reviews web application built with Vue 3, Vite, and TypeScript. It features a dynamic UI using TailwindCSS, BootstrapVue 3, Radix Vue, and Lucide Vue for icons. The project utilizes pnpm for dependency management and integrates tools like Heroicons and Headless UI for responsive components.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Tech Stack
+- Vue 3
+- Vite
+- TypeScript
+- TailwindCSS
+- BootstrapVue 3
+- Radix Vue
+- Lucide Vue
+- Heroicons
+- pnpm
